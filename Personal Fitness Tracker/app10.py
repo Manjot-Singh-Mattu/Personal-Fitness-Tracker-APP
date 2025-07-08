@@ -363,14 +363,14 @@ st.markdown(
     <div class="footer">
         <p>© 2025 Personal Fitness Tracker | Stay Healthy, Stay Fit 💪</p>
         <p>
-            Contact: <a href="mailto:your_email@example.com">Manjotmattu78922@gmail.com</a> |
-            <a href="https://github.com/Manjot-Singh-Mattu" target="_blank">GitHub</a> |
-            <a href="https://www.linkedin.com/in/manjot-singh-m1/" target="_blank">LinkedIn</a>
+            Contact: <a href="mailto:your_email@example.com">SandeepKaur1312@gmail.com</a> |
+            <a href="https://github.com/Majot-Singh-Mattu" target="_blank">GitHub</a> |
+            <a href="https://www.linkedin.com/in/manot-singh-m1/" target="_blank">LinkedIn</a>
         </p>
         <div class="social-icons">
             <a href="" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitter.png"/></a>
             <a href="" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/facebook.png"/></a>
-            <a href="https://www.instagram.com/manjotmattu_0_0?igsh=aXRmaTZkeXdxM3M3" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram.png"/></a>
+            <a href="https://www.instagram.com/anjotmattu_0_0?igsh=aXRmaTZkeXdxM3M3" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram.png"/></a>
         </div>
     </div>
     """,
